@@ -1,0 +1,37 @@
+{
+"Moderation": {
+"token": "",
+"prefix": ["."],
+"guildID": "",
+"mongoURL": "",
+"owners": [],
+"botDurum": []
+},
+"Guard": {
+"mainShield": "MTI1NzM2Mku0",
+"roleShield": "MTI1NzM1ODA5NTk3NDI3MzA0NA_3JflVi1nPyPYUM",
+"channelShield": "MTI1NzM2MjEwNQgx1HJTKnocVAJWxgc3quc",
+"otherShield": "MTI1NzM2MjYzMTEwMzM1Mjg2BeI7DVyJg25gmoE_Mk0",
+"otherShields": "MTI2MDIxNTE5MDE5NzExMjklyPrkaABs",
+"chatShield": "MTI2MDIxNjg1Mzk1NjAwNTv9E4yVTjBlX5g5uS-k",
+"selfShield": "MTIzODYxMzMzNDkxMjI3NDQE-GFi6VetruzyRi1cmE"
+},
+"Welcome": {
+"Channels": [
+"MTI1NzM1ODc3OTgyMRgmlnk",
+"MTI1NzM1OTAPl-2BVLjBlrD5VgaGUAg44y5aza_ys",
+"MTI1NzM1OTMwODkzMzU2NjU1NA_eEx8CojiZwLEhhmN04P4ls",
+"MTI1NzM2MDIyODc1NzA2NMDy_o8kRefdSbahNw-M4Yedw",
+"MTI1NzM2MTIwMjE3l3EH8krfgGc10dk"
+],
+"Token": [
+"12466317",
+"124642962843",
+"1246428940506",
+"1246429311045730314",
+"1275522360241295381"
+],
+"youtubeURL": "",
+"mp3": true
+}
+}
